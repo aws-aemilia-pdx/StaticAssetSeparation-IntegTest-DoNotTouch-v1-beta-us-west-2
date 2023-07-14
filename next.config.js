@@ -1,4 +1,5 @@
 module.exports = {
+  generateBuildId: () => null,
   images: {
       domains: ['images.unsplash.com'],
   },
