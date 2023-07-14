@@ -1,5 +1,6 @@
 module.exports = {
   generateBuildId: () => null,
+  generateEtags: false,
   images: {
       domains: ['images.unsplash.com'],
   },
